@@ -2,7 +2,7 @@
 
 Clone the Repository:
 
-    git clone https://github.com/khushiminda/Myntra---Team-ASTUTAS.git
+    https://github.com/khushiminda/Vihaan-DEV-i.git
 
 Install Dependencies: Ensure you have Node.js and npm installed. Run the  following command to install the required dependencies:
 
