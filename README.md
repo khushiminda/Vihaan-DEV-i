@@ -1,6 +1,6 @@
 # Vihaan-DEV-i
 
-Clone the Repository:
+Clone the Repository::
 
     https://github.com/khushiminda/Vihaan-DEV-i.git
 
